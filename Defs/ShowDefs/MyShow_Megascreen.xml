@@ -28,11 +28,30 @@
     <!-- This is where you link to all the images in your show -->
     <frames>
       <li>
-        <!-- This is a link to Shows/MyShow/Tube_MyShow_00.png -->
-        <texPath>Shows/MyShow/Mega_HockeyHurricanes_1.jpg</texPath>
+        <!-- This is a link to Shows/MyShow/Mega_MyShow_00.png -->
+        <texPath>Shows/MyShow/Mega_HockeyHurricanes_1</texPath>
         <!-- This is required for every frame. Just copy it over to each frame -->
         <graphicClass>Graphic_Single</graphicClass>
       </li>
+
+   <li>
+        <!-- This is a link to Shows/MyShow/Mega_MyShow_00.png -->
+        <texPath>Shows/MyShow/Mega_hockey_0</texPath>
+        <!-- This is required for every frame. Just copy it over to each frame -->
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>     
+         <li>
+        <!-- This is a link to Shows/MyShow/Mega_MyShow_00.png -->
+        <texPath>Shows/MyShow/Mega_hockey_1</texPath>
+        <!-- This is required for every frame. Just copy it over to each frame -->
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>        <li>
+        <!-- This is a link to Shows/MyShow/Mega_MyShow_00.png -->
+        <texPath>Shows/MyShow/Mega_hockey_2</texPath>
+        <!-- This is required for every frame. Just copy it over to each frame -->
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>     
+
       <!-- Add more frames as required -->
     </frames>
       <!-- Add more frames as required -->

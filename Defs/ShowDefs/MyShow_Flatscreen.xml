@@ -5,10 +5,10 @@
   <RimFlix.ShowDef>
   
     <!-- defName should be unique for each show -->
-    <defName>MyShow_Flatscreen</defName>
+    <defName>Hockey_Flatscreen</defName>
 
     <!-- label is the name of the show users will see in game -->
-    <label>My Show - Flatscreen Television</label>
+    <label>Hockey</label>
     
     <!-- description is visible when users mouseover your show in settings -->
     <description>A short description of my show</description>
@@ -29,11 +29,28 @@
 
     <frames>
       <li>
-        <!-- This is a link to Shows/MyShow/Tube_MyShow_00.png -->
-        <texPath>Shows/MyShow/Flat_HockeyHurricanes_1.jpg</texPath>
+        <!-- This is a link to Shows/MyShow/Flat_MyShow_00.png -->
+        <texPath>Shows/MyShow/Flat_HockeyHurricanes_1</texPath>
         <!-- This is required for every frame. Just copy it over to each frame -->
         <graphicClass>Graphic_Single</graphicClass>
       </li>
+         <li>
+        <!-- This is a link to Shows/MyShow/Flat_MyShow_00.png -->
+        <texPath>Shows/MyShow/Flat_hockey_0</texPath>
+        <!-- This is required for every frame. Just copy it over to each frame -->
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>     
+         <li>
+        <!-- This is a link to Shows/MyShow/Flat_MyShow_00.png -->
+        <texPath>Shows/MyShow/Flat_hockey_1</texPath>
+        <!-- This is required for every frame. Just copy it over to each frame -->
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>        <li>
+        <!-- This is a link to Shows/MyShow/Flat_MyShow_00.png -->
+        <texPath>Shows/MyShow/Flat_hockey_2</texPath>
+        <!-- This is required for every frame. Just copy it over to each frame -->
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>     
       <!-- Add more frames as required -->
     </frames>
     

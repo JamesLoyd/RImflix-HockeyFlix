@@ -3,8 +3,8 @@
 <ModMetaData>
 
     <!-- Name of your mod -->
-    <name>RimFlix - Hockey Flix</name>
-
+    <name>RimFlix - Hockey</name>
+    <packageid>CommanderJroc.RimFlixHockey</packageid>
     <!-- Name of author -->
     <author>CommanderJroc</author>
     
@@ -15,9 +15,10 @@
     
     <!-- Description of your shows -->
     <description>
-        Some beautiful hockey shots.
+        Some beautiful hockey pictures.
+        More will probably be added.
+        Let me know if you want one for your favorite team.
         Remember to load this after RimFlix.
-
         Should work for all vanilla tv's
     </description>
     
