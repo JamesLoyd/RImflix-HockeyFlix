@@ -4,7 +4,7 @@
 
     <!-- Name of your mod -->
     <name>RimFlix - Hockey</name>
-    <packageid>CommanderJroc.RimFlixHockey</packageid>
+    <packageId>CommanderJroc.RimFlixHockey</packageId>
     <!-- Name of author -->
     <author>CommanderJroc</author>
     
